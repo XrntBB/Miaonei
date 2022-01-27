@@ -349,10 +349,10 @@
         }
         SubmitResults();
         if (score <= 49) return '逊呐';
-        if (score <= 99) return '哼哼哼';
-        if (score <= 149) return '你是一个一个一个';
-        if (score <= 199) return '哼哼哼啊啊啊啊啊';
-        return '都撅烂了罢（恼';
+        if (score <= 99) return '秒内噶';
+        if (score <= 149) return '私に天使が舞い降りた！！';
+        if (score <= 199) return '喵内！';
+        return '砰！';
     }
 
     w.toStr = function(obj) {
